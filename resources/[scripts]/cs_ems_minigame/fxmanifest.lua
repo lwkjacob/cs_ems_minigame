@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'lwkjacob on discord'
-version '1.0.0'
+version '2.0.0'
 description 'Standalone EMS Mini-Game Script using ox_lib'
 
 dependencies {
